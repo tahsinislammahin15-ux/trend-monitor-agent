@@ -1,0 +1,6 @@
+{
+  "name": "Trend Monitor Agent Studio",
+  "description": "Automated Daily Trend Monitor Agent collecting from Google Trends (BD & Global), Hacker News, Wikipedia, and Tech/BD News RSS, curated in Easy Bengali with Gemini API and delivered to Telegram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
